@@ -3,8 +3,7 @@
     padding: 0;
     outline: none;
     box-sizing: border-box;
-    letter-spacing: .7px;
-    font-family: cursive;
+    font-family: 'gothic', sans-serif;
 }
 body {
     background-color: #fece0c;
